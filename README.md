@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Hello! I am an undergraduate student at St. Lawrence University in Canton, NY
+Hello! I am a St. Lawrence University alumni living in Washington (the state)
 
-I love outdoor sports (nordic skiing, running, mountain biking) and am currently studying computer science and statistics.
+I love outdoor sports (skiing, running, biking). I also pay my bills by writing code. 
 
 <!--
 **CharlesReinhardt/CharlesReinhardt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
