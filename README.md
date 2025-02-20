@@ -2,7 +2,7 @@
 
 Hello! I am a St. Lawrence University alumni living in Washington (the state)
 
-I love outdoor sports (skiing, running, biking). I also pay my bills by writing code. 
+I love outdoor sports (skiing, running, biking). I also pay my bills by writing code, but not on GitHub :(
 
 <!--
 **CharlesReinhardt/CharlesReinhardt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
